@@ -218,6 +218,7 @@ body {
 }
 
 .attribution {
+  display: none;
   margin: 1rem;
   text-align: center;
   font-size: 1.2rem;
