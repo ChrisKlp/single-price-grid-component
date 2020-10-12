@@ -37,7 +37,7 @@ body {
     margin: auto;
 
     @include s-md {
-        padding: 0;
+        padding: 5rem 0;
     }
 }
 
@@ -183,17 +183,5 @@ body {
         @include s-md {
             font-size: 1.6rem;
         }
-    }
-}
-
-.attribution {
-    display: none;
-    margin: 1rem;
-    text-align: center;
-    font-size: 1.2rem;
-    color: hsla(0, 0, 0, 0.7);
-
-    a {
-        color: hsla(0, 0, 0, 0.7);
     }
 }
